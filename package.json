@@ -2,5 +2,5 @@
   "name": "rollup-replace-temp-deleteme",
   "version": "0.0.1",
   "main": "dist/rollup-plugin-replace.cjs.js",
-  "module": "dist/rollup-plugin-replace.es.js",
+  "module": "dist/rollup-plugin-replace.es.js"
 }
